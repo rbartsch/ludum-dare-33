@@ -5,7 +5,7 @@ Built using the Unity game engine (version: 5.1.2f1)
 
 Entry page: http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=29419
 
-Description:
+## Description:
 
 You are an alien species known as Rul 
 
@@ -15,7 +15,7 @@ The Rul become "one" with their spaceships/technology and are able to mutate wit
 
 With each jump to a star system, your ship mutates into a better version. Along the way you will battle Sol Confederacy forces that are trying to prevent you from destroying their home, Earth. 
 
-How To Play 
+### How To Play 
 
 W - FORWARD (STERN THRUSTERS) 
 
@@ -29,7 +29,7 @@ MOUSE LEFT CLICK - CLICK ON ENEMY TO TARGET FOR GIMBALLED WEAPONS TO LOCK ONTO
 
 Find the system star gate to jump to the next star system by flying into it. There'll be an arrow indicator providing you with the direction to it. With each jump to a star system, your ship mutates into a better version. Along the way you will battle Sol Confederacy forces that are trying to prevent you from destroying their home, Earth.
 
-Screenshots:
+## Screenshots:
 
 ![alt text](https://i.imgur.com/hzv30uy.png)
 ![alt text](https://i.imgur.com/UxWt857.png)
