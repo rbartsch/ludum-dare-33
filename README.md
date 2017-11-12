@@ -5,6 +5,8 @@ Built using the Unity game engine (version: 5.1.2f1)
 
 Entry page: http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=29419
 
+Download compiled game: https://hobblygobbly.itch.io/destroy-earth-ludum-dare-33-jam-game
+
 ## Description:
 
 You are an alien species known as Rul 
@@ -26,6 +28,8 @@ D - RIGHT (PORT THRUSTERS)
 SPACEBAR - FIRE WEAPONS 
 
 MOUSE LEFT CLICK - CLICK ON ENEMY TO TARGET FOR GIMBALLED WEAPONS TO LOCK ONTO 
+
+---
 
 Find the system star gate to jump to the next star system by flying into it. There'll be an arrow indicator providing you with the direction to it. With each jump to a star system, your ship mutates into a better version. Along the way you will battle Sol Confederacy forces that are trying to prevent you from destroying their home, Earth.
 
