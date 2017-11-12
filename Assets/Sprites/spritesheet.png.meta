@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 8646c445504126541913d5a18499d5a9
+timeCreated: 1440411938
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: panel_red
+    21300002: button_blue
+    21300004: thruster_active_large
+    21300006: block_hollow_red
+    21300008: block_solid_red
+    21300010: block_dotted_red
+    21300012: thruster_active_small
+    21300014: thruster_inactive_large
+    21300016: thruster_inactive_small
+    21300018: weapon_gimballed
+    21300020: weapon_fixed_left
+    21300022: weapon_fixed_right
+    21300024: thruster_large_active
+    21300026: thruster_small_active
+    21300028: human_small
+    21300030: thruster_large_inactive
+    21300032: thruster_small_inactive
+    21300034: blue_spaceship
+    21300036: projectile
+    21300038: projectile_red
+    21300040: projectile_small_red
+    21300042: human_medium
+    21300044: human_large
+    21300046: human_extra_large
+    21300048: d_rul
+    21300050: c_rul
+    21300052: b_rul
+    21300054: a_rul
+    21300056: stargate
+    21300058: projectile_green_small
+    21300060: projectile_green_long
+    21300062: projectile_green_cross
+    21300064: projectile_blue_small
+    21300066: projectile_blue_long
+    21300068: projectile_blue_cross
+    21300070: direction_arrow
+    21300072: green_panel
+    21300074: red_button
+    21300076: green_button
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: thruster_large_active
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 285
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thruster_small_active
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 285
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_small
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 261
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thruster_large_inactive
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 285
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thruster_small_inactive
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 285
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon_gimballed
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 265
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_medium
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 261
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_large
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 261
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_extra_large
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 261
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: d_rul
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 323
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_rul
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 322
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b_rul
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 322
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a_rul
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 322
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stargate
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 391
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon_fixed_left
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 272
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: weapon_fixed_right
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 272
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_green_small
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 261
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_green_long
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 254
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_green_cross
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 249
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_blue_small
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 261
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_blue_long
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 254
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_blue_cross
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 249
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: direction_arrow
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 241
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: green_panel
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 194
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+    - name: red_button
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 168
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 5, z: 2, w: 2}
+    - name: green_button
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 168
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 5, z: 2, w: 2}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
