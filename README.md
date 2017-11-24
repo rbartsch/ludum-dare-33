@@ -1,5 +1,5 @@
 # ludum-dare-33
-My entry for the Ludum Dare 33 game jam. The game jam's theme was "You are the Monster".
+My entry for the Ludum Dare 33 (August 2015) game jam. The game jam's theme was "You are the Monster". The game was developed over the course of the weekend.
 
 Built using the Unity game engine (version: 5.1.2f1). Language used: C#
 
